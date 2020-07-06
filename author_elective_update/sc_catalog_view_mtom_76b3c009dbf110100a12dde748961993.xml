@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Royal Enfield Spares">9181c4c5dbf110100a12dde7489619e2</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 09:49:42</sys_created_on>
+        <sys_id>76b3c009dbf110100a12dde748961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Royal Enfield Spares.catalog_royal_enfield_spares</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_royal_enfield_spares">7eb3c009dbf110100a12dde748961991</sys_portal_page>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_76b3c009dbf110100a12dde748961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 09:49:42</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>95ee8091db47df80b2e05d00cf9619bb</instance_id>
+        <instance_name>dev63095</instance_name>
+        <name>sc_catalog_view_mtom_76b3c009dbf110100a12dde748961993</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Royal Enfield Spares">9181c4c5dbf110100a12dde7489619e2</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-02 09:49:42</sys_created_on><sys_id>76b3c009dbf110100a12dde748961993</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Royal Enfield Spares.catalog_royal_enfield_spares</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_portal_page display_value="catalog_royal_enfield_spares">7eb3c009dbf110100a12dde748961991</sys_portal_page><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_catalog_view_mtom_76b3c009dbf110100a12dde748961993</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-02 09:49:42</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>981518804</payload_hash>
+        <record_name>Royal Enfield Spares.catalog_royal_enfield_spares</record_name>
+        <reverted_from/>
+        <source>be301fd7db4d90100a12dde748961927</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 09:49:42</sys_created_on>
+        <sys_id>7eb34c09dbf110100a12dde74896197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1730eee91950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 09:49:42</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>b6b34c0930f110106e7864d35cccf77e</update_guid>
+        <update_guid_history>b6b34c0930f110106e7864d35cccf77e:981518804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Royal Enfield Spares.catalog_royal_enfield_spares">9733fc05db7510100a12dde748961966</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 13:17:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>01159f18be8a4748800cc5a223d9f844</sys_id>
+        <sys_metadata>76b3c009dbf110100a12dde748961993</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Royal Enfield Spares.catalog_royal_enfield_spares</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_76b3c009dbf110100a12dde748961993</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_76b3c009dbf110100a12dde748961993">7eb34c09dbf110100a12dde74896197e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 13:17:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
